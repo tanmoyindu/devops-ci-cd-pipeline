@@ -8,6 +8,11 @@ The pipeline automatically builds, tests, containerizes, and pushes the applicat
 
 ---
 
+CI/CD Pipeline in Action
+
+Below is a snapshot of successful pipeline runs from GitHub Actions:
+![image alt]()
+
 ## Tech Stack
 
 * **Backend:** Node.js 
