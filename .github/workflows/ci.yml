@@ -29,3 +29,6 @@ jobs:
 
       - name: Run tests
         run: node test.js
+
+      - name: Build Docker image
+        run: docker build -t devops-app .
