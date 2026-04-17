@@ -75,7 +75,7 @@ The CI pipeline ensures the app is running correctly before building the Docker 
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 npm install
@@ -90,7 +90,7 @@ http://localhost:3000
 
 ---
 
-## 📊 CI/CD Architecture
+##  CI/CD Architecture
 
 ```
 Developer → GitHub → GitHub Actions → Docker Hub
@@ -98,7 +98,7 @@ Developer → GitHub → GitHub Actions → Docker Hub
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 * Automated CI/CD pipeline
 * Dockerized application
