@@ -11,7 +11,7 @@ The pipeline automatically builds, tests, containerizes, and pushes the applicat
 CI/CD Pipeline in Action
 
 Below is a snapshot of successful pipeline runs from GitHub Actions:
-![image alt]()
+![image alt](https://github.com/tanmoyindu/devops-ci-cd-pipeline/blob/9b7c5c701327fb3c38e776dcb4314acd054ac7c4/pipeline.png)
 
 ## Tech Stack
 
